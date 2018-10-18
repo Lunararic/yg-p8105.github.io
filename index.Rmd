@@ -17,3 +17,7 @@ I can link directly to my [about page](about.html).
 random pic:
 
 <img src="image/1.jpg" style = "width:105%">
+
+## Add code
+
+[My code page is here](code.html).

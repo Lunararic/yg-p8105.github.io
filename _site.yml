@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Google"
+      href: http://www.google.com
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
